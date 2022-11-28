@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1667334343 source:c:\users\admin\desktop\ejercicios c\tda_lista_de\listade\funciones.c
+	"listaDE.h"
+
+1667330965 c:\users\admin\desktop\ejercicios c\tda_lista_de\listade\listade.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1667333839 source:c:\users\admin\desktop\ejercicios c\tda_lista_de\listade\main.c
+	"listaDE.h"
+
